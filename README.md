@@ -1,5 +1,5 @@
-I remember @Hackerfrogs said one time on his live stream , that if u havent document it - it never happened !
+I recall @Hackerfrogs stating during a live stream that if something isn't documented, it's as if it never occurred.
 
-so as time goes by and i am learning something new or doing something new will create a file for that ~ reference u can see and learn
+Therefore, as I learn or do new things, I will create a file for reference, enabling review and learning.
 
-I tend to forget things fast and so i can also go back in past and see what i did ... its helpful u should try documenting too!
+I tend to forget things quickly, so this allows me to revisit past actions. It's beneficial, and I recommend documenting your work as well.
