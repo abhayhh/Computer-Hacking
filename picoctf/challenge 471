@@ -1,0 +1,3 @@
+After launching the instance, copy `nc verbal-sleep.picoctf.net 58537`, open the web shell, paste the copied text, and press Enter.
+
+The answer is picoCTF{m1113n1um_3d1710n_219b5811}.
