@@ -2,3 +2,12 @@ logout of the bandit1 session by typing logout
 ctrl + c dont terminate here can use ; too
 login using ssh --
 ssh bandit2@bandit.labs.overthewire.org -p 2220
+do same steps login using password of bandit1 (from bandit0)
+and then see files - ls 
+see file with spaces like this --spaces in this filename--
+now try to use cat --spaces in this filename--
+it wont read the password , u have to search about this filetype
+u will see it will say about writing ''or "" but it wont work here u will have to clear spaces like
+cat --spaces\ in\ this\ filename--
+wont work bcz its dashed , will have 2 use cat./--spaces in this filename--
+u will get password - MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
