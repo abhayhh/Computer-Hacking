@@ -1,2 +1,13 @@
 loginto bandit1 using ssh --
 ssh bandit1@bandit.labs.overthewire.org -p 2220
+than it will ask u for password (from bandit0) i manually entered it bcz copy paste aint working in my pc
+now , u will enter in the sever and now u want to go see the files enter ls
+it will show - 
+first i thought its showing nan or none like that
+but in linux u can enter file name like with dash (-) too
+so we will follow prev step of seeing inside file 
+we will enter cat -
+it will fail so we google
+and type how to open - file in linux
+cat ./- this is the command will give u password for bandit2
+password is 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
