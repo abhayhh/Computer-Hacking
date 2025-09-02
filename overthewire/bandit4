@@ -1,0 +1,11 @@
+login and see files ls -la or ls -l
+see 10 file
+open 1 file and see whats inside
+machine lang , we can tunderstand
+cant manually open many files
+will use file command as shown in website ls , cd , cat , file , du , find
+will use files as to see data inside a file content of which type 
+we get the answer seeing file type as ASCII in -file07
+by running command file ./* (* all) will give results of file type ., we get password from ascii file07
+we just do cat ./-file07
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
