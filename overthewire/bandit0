@@ -1,0 +1,9 @@
+connect to ssh on cmd - ssh bandit0@bandits.labs.overthewire.org -p 2220
+now u can type password - bandit0
+and now u are entered in the bandit linux
+enter the commands to see directory and all the things inside like ls -al
+pwd -- ls --- cat readme 
+cat will read all the content of readme file and give u flag
+its not a flag its a password for your bandit1 acc
+The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+type 'logout' and exit from the server of bandit0
