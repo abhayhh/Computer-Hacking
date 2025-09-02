@@ -1,6 +1,7 @@
 loginto bandit1 using ssh --
 ssh bandit1@bandit.labs.overthewire.org -p 2220
-than it will ask u for password (from bandit0) i manually entered it bcz copy paste aint working in my pc
+than it will ask u for password (from bandit0) i manually entered it bcz copy paste aint working in my pc 
+p.s - click on header and click on properties , which open the properties menu slect the ctrl+shfit+c/v to copy paste option
 now , u will enter in the sever and now u want to go see the files enter ls
 it will show - 
 first i thought its showing nan or none like that
