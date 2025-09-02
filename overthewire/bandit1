@@ -1,0 +1,2 @@
+loginto bandit1 using ssh --
+ssh bandit1@bandit.labs.overthewire.org -p 2220
