@@ -1,0 +1,4 @@
+logout of the bandit1 session by typing logout 
+ctrl + c dont terminate here can use ; too
+login using ssh --
+ssh bandit2@bandit.labs.overthewire.org -p 2220
