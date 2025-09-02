@@ -1,2 +1,13 @@
 follow same steps as followed till now
 logout from bandit2 ssh login using password of bandit2 and search for files if avail. and try to read it
+its now showing inhere file in blue .... mmhmm
+what shall it be?
+when go onto website it shows inhere dir... ok its a dir
+we know how to change dir
+we can type cd inhere
+and than see the file by ls 
+but when we do ls it dont shows anything file is hidden 
+to see all files we have a command ls -la
+it lists all file in the dir
+it shows a file ...Hidden_From_You just cat the file and here is ur password ---
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ 
